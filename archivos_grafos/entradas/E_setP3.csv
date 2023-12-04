@@ -1,0 +1,13 @@
+fuente,destino,costo
+t,u,2
+t,y,7
+t,v,4
+u,v,3
+u,w,3
+v,w,4
+v,y,8
+v,x,3
+w,x,6
+x,y,6
+x,z,8
+y,z,12
